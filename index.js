@@ -14,3 +14,10 @@ function divide(5.2, 2.5) {
   number = 5.2 / 2.5
   return number;
 }
+function makeInt(string) {
+  parseInt(string)
+}
+
+function preserveDecimal(string) {
+  parseFloat(string)
+}
