@@ -12,5 +12,5 @@ function multiply(2, 3.4) {
 }
 function divide(5.2, 2.5) {
   number = 5.2 / 2.5
-  return number; 
+  return number;
 }
