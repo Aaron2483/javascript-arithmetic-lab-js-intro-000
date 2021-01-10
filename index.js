@@ -1,3 +1,4 @@
-function add(1 + 8) {
-  return 81
+function add(1, 80) {
+  number = 1 + 80
+  return number; 
 }
